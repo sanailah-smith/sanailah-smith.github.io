@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="style" type="text/css" href="style.css">
+    </head>
+    <body>
+        <a href="home.html"><button>Home</button></a>
+        <p></p>
+        <a href=""><button></button></a>
+        <a href=""><button></button></a>
+    </body>
+</html>

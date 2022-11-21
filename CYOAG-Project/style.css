@@ -1,0 +1,177 @@
+.path {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/backgrounds/bg1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.start {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9;
+}
+
+.btn {
+    font-size: 25px;
+    background-color: rgb(77, 81, 79);
+    color:rgb(236, 234, 237)
+}
+
+.set {
+    text-align: center
+}
+
+.home {
+    background-color: rgba(46, 48, 47, 0.668);
+    color:rgb(241, 198, 119)
+}
+
+.back {
+    background-color:rgb(77, 81, 79);
+    color:rgb(236, 234, 237);
+    font-size: 25px;
+    margin-right: 95%;
+}
+
+.behind {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/backgrounds/bg2.png");
+    background-size: cover;
+}
+
+.end2 {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 35%;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+}
+
+.one {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9;
+}
+
+.end1 {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 150px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+}
+
+.oneai {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 305px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.cgone {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/cgs/cg1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.two {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px; 
+    position: relative;
+    z-index: 9;
+}
+
+.twob {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px; 
+    position: relative;
+    z-index: 9;
+}
+
+.neveah {
+    position: fixed;
+    max-width: 28%;
+    top: 18%;
+}
+
+.deja {
+    position: fixed;
+    left: 70%;
+    max-width: 30%;
+    top: 11%;
+}
+
+.gamestart {
+    background-color: rgb(245, 198, 206);
+}
