@@ -50,6 +50,12 @@
     background-size: cover;
 }
 
+.ending2 {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/cgs/cg2.png");
+    background-size: cover;
+}
+
 .end2 {
     border-style: solid;
     border-color: rgb(35, 35, 35);
@@ -104,12 +110,12 @@
     border-color: rgb(35, 35, 35);
     box-shadow: 6px 4px black;
     background-color: rgba(46, 48, 47, 0.668);
-    height: 305px;
+    height: 235px;
     width: 1800px;
     font-size: 30px;
     overflow: auto;
     color: rgb(236, 234, 237);
-    margin-top: 500px;
+    margin-top: 570px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
@@ -170,8 +176,391 @@
     left: 70%;
     max-width: 30%;
     top: 11%;
+    opacity: 90%;
 }
 
 .gamestart {
-    background-color: rgb(245, 198, 206);
+    background-color: rgb(245, 161, 158);
+}
+
+.end4 {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+}
+
+.cgfive {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/cgs/cg5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.oneaf {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-a {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-b {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-ac {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-ad {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-bd {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-ac-b {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 305px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 510px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.oneai-ac-a {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 269px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.center {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/backgrounds/bg3.png");
+    background-size: cover;
+}
+
+.gate {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/backgrounds/bg4.png");
+    background-size: cover;
+}
+
+.fg-left {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 580px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.fg-right {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 170px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.end3 {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 150px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 630px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.end4 {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 170px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 630px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.mpath {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    text-align: center;
+    height: 165px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 630px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.fg-foward{
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 250px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 580px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.graveyard {
+    background-color: rgb(24, 24, 24);
+    background-image: url("Images/backgrounds/bg5.png");
+    background-size: cover;
+}
+
+.founda {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 240px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.foundb {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 240px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.foundba {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.foundbb {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.foundab {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 200px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
+}
+
+.foundaa {
+    border-style: solid;
+    border-color: rgb(35, 35, 35);
+    box-shadow: 6px 4px black;
+    background-color: rgba(46, 48, 47, 0.668);
+    height: 235px;
+    width: 1800px;
+    font-size: 30px;
+    overflow: auto;
+    color: rgb(236, 234, 237);
+    margin-top: 570px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 9; 
 }
